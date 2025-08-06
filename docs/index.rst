@@ -3,6 +3,12 @@ How to Uninstall TotalAV Antivirus – Windows 10 or 11, Mac, Android & iOS
 
 TotalAV is a widely used antivirus solution that offers protection across all major operating systems. However, if you're switching to another security provider or facing issues with the software, you may need to remove it completely. This guide will walk you through how to **Uninstall TotalAV Antivirus** from Windows 10, Windows 11, macOS, Android, and iOS devices.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://desk-totalav.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with TotalAV</a>
+   </div>
+
 Whether it's due to performance conflicts, subscription changes, or troubleshooting purposes, learning how to **Uninstall TotalAV Antivirus** the right way ensures that no leftover files affect your system. Below, you’ll find platform-specific methods, including manual and official tools for uninstallation.
 
 If you’re struggling with incomplete removals or errors, this post will also guide you on how to clean up residual files and settings to completely **Uninstall TotalAV Antivirus**.
@@ -192,5 +198,6 @@ Conclusion
 Knowing how to **Uninstall TotalAV Antivirus** correctly is essential for maintaining a clean, conflict-free system—whether you're using Windows, Mac, Android, or iOS. This guide walked you through detailed methods for all major platforms, including manual file cleanup and admin-level steps.
 
 If you ever need to reinstall or switch to another security provider, be sure your system is completely free of prior antivirus software to avoid conflicts.
+
 
 Still need help? Don’t hesitate to reach out via the official `TotalAV Help Center <https://www.totalav.com/help>`_.
